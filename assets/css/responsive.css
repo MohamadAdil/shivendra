@@ -1,0 +1,327 @@
+@media screen and (max-width: 1399px) {
+    .main-heading {
+        font-size: 84px;
+        line-height: 100px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .banner-inner {
+        max-width: 100%;
+        max-height: 100%;
+        margin-top: 30px;
+    }
+
+    .innner-content {
+        margin-left: 0;
+        margin-top: 30px;
+        max-width: 100%;
+    }
+
+    .hero {
+        padding-bottom: 50px;
+    }
+
+    .extra-approach {
+        padding: 50px 0;
+        margin: 0;
+    }
+
+    .extra-approach-wrap {
+        padding: 40px;
+    }
+
+    .extra-img {
+        margin-bottom: 30px;
+    }
+
+    .extra-txt h2 {
+        margin-bottom: 30px;
+    }
+
+    .extra-txt p {
+        max-width: 100%;
+    }
+
+    .latest-insights {
+        padding: 50px 0;
+    }
+
+    .common-h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .insight-txt h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .insight-txt p {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        /* number of lines to show */
+        line-clamp: 4;
+        -webkit-box-orient: vertical;
+    }
+
+    .big-txt {
+        max-width: 100%;
+        padding: 20px;
+        bottom: -1px;
+        width: 100%;
+        left: 0;
+    }
+
+    .big-samll::after {
+        content: unset;
+    }
+
+    .our-services h4 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+    .latest-podcast {
+        padding: 50px 0;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .navbar .navbar-collapse .navbar-nav {
+        gap: 20px;
+        margin: 20px 0;
+    }
+
+    .hero {
+        margin-top: -21rem;
+        padding-top: 24rem;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-brand img {
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    .main-heading,
+    .hero-all-page .banner-content h1 {
+        font-size: 60px;
+        line-height: 70px;
+    }
+
+    .innner-content {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .big-txt {
+        position: relative;
+    }
+
+    .events-webinars .row .col-xl-6 {
+        display: none;
+    }
+
+    .card-samll {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .client-stories-txt {
+        padding: 40px;
+    }
+
+    .client-stories-txt h4 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .service.txt {
+        margin-bottom: 30px;
+    }
+
+    .service-item {
+        padding: 40px;
+    }
+
+    .service-item h6 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .podcast-icon {
+        max-height: 100px;
+        max-width: 100px;
+    }
+
+    .service-slider .slick-dots {
+        left: 50%;
+    }
+
+    .prodcast-card {
+        padding: 20px;
+    }
+
+    .latest-insights .heading-txt {
+        margin-bottom: 30px;
+    }
+
+    .latest-insights .heading-txt h2 {
+        margin-bottom: 30px;
+    }
+
+    .view-service-wrap {
+        padding: 60px;
+    }
+
+    .view-service-wrap h2 {
+        max-width: 100%;
+    }
+
+    .view-services {
+        margin-bottom: 20px;
+        padding: 50px 0;
+    }
+
+    footer {
+        padding: 20px 0;
+    }
+
+    .Breakthrough-img {
+        margin-bottom: 30px;
+    }
+    .service-txt{
+        margin-bottom: 30px;
+    }
+    .get-in-wrap{
+        padding: 20px ;
+    }
+    .mb-40{
+        margin-bottom: 0px;
+    }
+    .get-in-wrap input, .get-in-wrap select, .get-in-wrap textarea {
+        margin-bottom: 20px;
+    }
+    .captcha{
+        margin-bottom: 20px;
+    }
+    .get-in-touch{
+        padding: 60px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .insight-slider .slick-dots {
+        right: 0px;
+    }
+
+    .insight-image {
+        margin-bottom: 30px;
+    }
+
+    .prodcast-card {
+        max-width: 100%;
+        max-height: 100%;
+    }
+
+    .section-pd {
+        padding: 30px 0;
+    }
+
+    .testimonial-item p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .view-service-wrap {
+        padding: 30px;
+    }
+
+    .custom-tabs .nav-link {
+        padding: 15px;
+        font-size: 14px;
+    }
+
+    .Breakthrough-txt h2 {
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+
+    .main-heading,
+    .hero-all-page .banner-content h1 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .innner-content {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .extra-approach-wrap {
+        padding: 20px;
+    }
+
+    .common-h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .extra-txt p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .btn-main {
+        padding: 15px 30px;
+        min-width: unset;
+    }
+
+    .card-samll {
+        padding: 25px;
+    }
+
+    .events-webinars .container-fluid.px-5 {
+        padding: 0 10px !important;
+    }
+
+    .client-stories-txt {
+        padding: 25px;
+    }
+
+    /* 
+    .client-stories .g-0 {
+        padding: 0 10px !important;
+    } */
+
+    .our-services {
+        padding: 30px 0;
+    }
+
+    .service-item h6 {
+        font-size: 22px;
+        line-height: 29px;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        /* number of lines to show */
+        line-clamp: 4;
+        -webkit-box-orient: vertical;
+    }
+
+    .service-slider .slick-dots {
+        bottom: 10px;
+    }
+
+    .service-item {
+        border-radius: 40px;
+    }
+}
